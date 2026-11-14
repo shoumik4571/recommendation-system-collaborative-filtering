@@ -1,0 +1,168 @@
+{
+  "dataset_stats": {
+    "num_users": 400,
+    "num_movies": 350,
+    "num_ratings": 10321,
+    "total_matrix_cells": 140000,
+    "sparsity_ratio_pct": 92.63
+  },
+  "svd_k_tuning": [
+    {
+      "k_factors": 5,
+      "test_rmse": 0.3387
+    },
+    {
+      "k_factors": 10,
+      "test_rmse": 0.3544
+    },
+    {
+      "k_factors": 20,
+      "test_rmse": 0.3837
+    },
+    {
+      "k_factors": 35,
+      "test_rmse": 0.4206
+    },
+    {
+      "k_factors": 50,
+      "test_rmse": 0.4402
+    }
+  ],
+  "best_k": 5,
+  "model_comparison": [
+    {
+      "model": "User-Based Collaborative Filtering (Cosine Similarity)",
+      "rmse": 0.3752,
+      "precision_at_5": 0.4595,
+      "precision_at_10": 0.4401
+    },
+    {
+      "model": "Item-Based Collaborative Filtering (Cosine Similarity)",
+      "rmse": 0.382,
+      "precision_at_5": 0.035,
+      "precision_at_10": 0.0514
+    },
+    {
+      "model": "Matrix Factorization - SVD (Tuned k=5)",
+      "rmse": 0.3387,
+      "precision_at_5": 0.5985,
+      "precision_at_10": 0.572
+    }
+  ],
+  "user_101_recommendations": [
+    {
+      "movieId": 3,
+      "title": "The Lion King (1994)",
+      "genres": "Animation|Children|Drama",
+      "predicted_rating": 4.57,
+      "strategy": "SVD Matrix Factorization",
+      "rank": 1
+    },
+    {
+      "movieId": 6,
+      "title": "Monsters, Inc. (2001)",
+      "genres": "Animation|Children|Comedy",
+      "predicted_rating": 4.54,
+      "strategy": "SVD Matrix Factorization",
+      "rank": 2
+    },
+    {
+      "movieId": 5,
+      "title": "Finding Nemo (2003)",
+      "genres": "Animation|Adventure|Children|Comedy",
+      "predicted_rating": 4.49,
+      "strategy": "SVD Matrix Factorization",
+      "rank": 3
+    },
+    {
+      "movieId": 2,
+      "title": "Aladdin (1992)",
+      "genres": "Animation|Children|Musical",
+      "predicted_rating": 4.39,
+      "strategy": "SVD Matrix Factorization",
+      "rank": 4
+    },
+    {
+      "movieId": 52,
+      "title": "Ferris Bueller's Day Off (1986)",
+      "genres": "Comedy",
+      "predicted_rating": 4.24,
+      "strategy": "SVD Matrix Factorization",
+      "rank": 5
+    }
+  ],
+  "star_wars_item_item_recommendations": [
+    {
+      "movieId": 16,
+      "title": "The Matrix (1999)",
+      "genres": "Action|Sci-Fi|Thriller",
+      "cosine_similarity": 0.503
+    },
+    {
+      "movieId": 24,
+      "title": "Jurassic Park (1993)",
+      "genres": "Action|Adventure|Sci-Fi",
+      "cosine_similarity": 0.5
+    },
+    {
+      "movieId": 20,
+      "title": "Blade Runner (1982)",
+      "genres": "Action|Sci-Fi|Thriller",
+      "cosine_similarity": 0.4854
+    },
+    {
+      "movieId": 21,
+      "title": "Aliens (1986)",
+      "genres": "Action|Horror|Sci-Fi",
+      "cosine_similarity": 0.4769
+    },
+    {
+      "movieId": 17,
+      "title": "Inception (2010)",
+      "genres": "Action|Sci-Fi|Thriller",
+      "cosine_similarity": 0.4705
+    }
+  ],
+  "cold_start_recommendations": [
+    {
+      "rank": 1,
+      "movieId": 3,
+      "title": "The Lion King (1994)",
+      "genres": "Animation|Children|Drama",
+      "predicted_rating": 4.14,
+      "strategy": "Cold-Start Popularity Fallback"
+    },
+    {
+      "rank": 2,
+      "movieId": 1,
+      "title": "Toy Story (1995)",
+      "genres": "Animation|Children|Comedy",
+      "predicted_rating": 4.13,
+      "strategy": "Cold-Start Popularity Fallback"
+    },
+    {
+      "rank": 3,
+      "movieId": 45,
+      "title": "Forrest Gump (1994)",
+      "genres": "Comedy|Drama|Romance",
+      "predicted_rating": 4.13,
+      "strategy": "Cold-Start Popularity Fallback"
+    },
+    {
+      "rank": 4,
+      "movieId": 13,
+      "title": "Star Wars: Episode IV - A New Hope (1977)",
+      "genres": "Action|Adventure|Sci-Fi",
+      "predicted_rating": 4.13,
+      "strategy": "Cold-Start Popularity Fallback"
+    },
+    {
+      "rank": 5,
+      "movieId": 2,
+      "title": "Aladdin (1992)",
+      "genres": "Animation|Children|Musical",
+      "predicted_rating": 4.12,
+      "strategy": "Cold-Start Popularity Fallback"
+    }
+  ]
+}

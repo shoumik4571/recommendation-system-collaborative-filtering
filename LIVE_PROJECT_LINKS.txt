@@ -1,0 +1,51 @@
+================================================================================
+PERSEVEX ARTIFICIAL INTELLIGENCE INTERNSHIP — PROJECT SUBMISSION
+Project Title : Recommendation System using Collaborative Filtering (Talverin ReelPulse OTT)
+Domain        : Artificial Intelligence (Collaborative Filtering, Cosine & SVD)
+Author        : Shoumik Aggarwal
+================================================================================
+
+1. PUBLIC WORKING PROJECT LINKS (ACCESSIBLE FROM ANYWHERE ON THE INTERNET)
+--------------------------------------------------------------------------------
+• LIVE WORKING OTT WEB APP URL (24/7 Cloud Hosted — Talverin ReelPulse OTT Studio):
+  https://shoumik4571.github.io/recommendation-system-collaborative-filtering/
+
+• PUBLIC GITHUB REPOSITORY (Full Source Code, Notebooks, Models & Reports):
+  https://github.com/shoumik4571/recommendation-system-collaborative-filtering
+
+
+2. LOCAL DEVELOPMENT ENDPOINTS (WHEN RUNNING LOCALLY)
+--------------------------------------------------------------------------------
+• Talverin ReelPulse OTT Next.js 15 Studio      : http://localhost:3002
+• Streamlit Interactive Workbench      : http://localhost:8501
+
+
+3. QUICK-START COMMANDS (REPRODUCE OR RUN LOCALLY IN <60 SECONDS)
+--------------------------------------------------------------------------------
+A) Reproduce MovieLens Dataset, Sparsity, Cosine CF, SVD Tuning & Plots:
+   cd Source_Code
+   python src/cinematch_engine.py
+
+B) Open the Executed Analysis Notebook (Deliverable 1):
+   jupyter notebook Talverin_ReelPulse_Analysis_Notebook.ipynb
+
+C) Launch the Talverin ReelPulse OTT Next.js 15 Studio (Talverin UI Stack):
+   cd talverin-ott-ui && npm install && npm run dev -- -p 3002
+   --> Open http://localhost:3002
+
+D) Or Launch the Single-Command Streamlit App:
+   streamlit run app.py
+
+
+4. FOLDER CONTENTS (SUBMISSION ARCHIVE)
+--------------------------------------------------------------------------------
+• Talverin_ReelPulse_Collaborative_Filtering_Presentation.pptx : 12-Slide Cinema PPT Deck
+• Talverin_ReelPulse_Collaborative_Filtering_Report.pdf        : Full Evaluation Report PDF
+• LIVE_PROJECT_LINKS.txt                              : Public Live URL & Run Guide
+• Source_Code/                                        : Complete Python CF/SVD Engine,
+                                                        MovieLens Tables (Users, Movies,
+                                                        Ratings), Analysis Notebook,
+                                                        Evaluation Report, Demo Output
+                                                        Log, Streamlit App, and Talverin
+                                                        Next.js 15 Cinema OTT UI.
+================================================================================

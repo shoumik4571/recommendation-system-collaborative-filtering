@@ -1,0 +1,351 @@
+movieId,title,genres
+1,Toy Story (1995),Animation|Children|Comedy
+2,Aladdin (1992),Animation|Children|Musical
+3,The Lion King (1994),Animation|Children|Drama
+4,Beauty and the Beast (1991),Animation|Children|Musical|Romance
+5,Finding Nemo (2003),Animation|Adventure|Children|Comedy
+6,"Monsters, Inc. (2001)",Animation|Children|Comedy
+7,Toy Story 2 (1999),Animation|Children|Comedy
+8,Shrek (2001),Animation|Children|Comedy|Fantasy
+9,The Incredibles (2004),Action|Animation|Children|Comedy
+10,Up (2009),Animation|Adventure|Children|Drama
+11,WALL-E (2008),Animation|Children|Sci-Fi
+12,Coco (2017),Animation|Children|Musical
+13,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+14,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+15,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+16,The Matrix (1999),Action|Sci-Fi|Thriller
+17,Inception (2010),Action|Sci-Fi|Thriller
+18,Interstellar (2014),Drama|Sci-Fi
+19,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+20,Blade Runner (1982),Action|Sci-Fi|Thriller
+21,Aliens (1986),Action|Horror|Sci-Fi
+22,The Dark Knight (2008),Action|Crime|Drama
+23,Raiders of the Lost Ark (1981),Action|Adventure
+24,Jurassic Park (1993),Action|Adventure|Sci-Fi
+25,The Shawshank Redemption (1994),Crime|Drama
+26,The Godfather (1972),Crime|Drama
+27,The Godfather: Part II (1974),Crime|Drama
+28,Pulp Fiction (1994),Crime|Drama|Thriller
+29,Goodfellas (1990),Crime|Drama
+30,Fight Club (1999),Action|Crime|Drama|Thriller
+31,Se7en (1995),Mystery|Thriller
+32,The Silence of the Lambs (1991),Crime|Horror|Thriller
+33,Schindler's List (1993),Drama|War
+34,The Usual Suspects (1995),Crime|Mystery|Thriller
+35,No Country for Old Men (2007),Crime|Drama|Thriller
+36,The Departed (2006),Crime|Drama|Thriller
+37,Titanic (1997),Drama|Romance
+38,The Notebook (2004),Drama|Romance
+39,La La Land (2016),Comedy|Drama|Musical|Romance
+40,Pride & Prejudice (2005),Drama|Romance
+41,Before Sunrise (1995),Drama|Romance
+42,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi
+43,Notting Hill (1999),Comedy|Romance
+44,When Harry Met Sally... (1989),Comedy|Romance
+45,Forrest Gump (1994),Comedy|Drama|Romance
+46,Good Will Hunting (1997),Drama|Romance
+47,Superbad (2007),Comedy
+48,The Hangover (2009),Comedy
+49,Groundhog Day (1993),Comedy|Fantasy|Romance
+50,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy
+51,The Grand Budapest Hotel (2014),Comedy|Drama
+52,Ferris Bueller's Day Off (1986),Comedy
+53,Mean Girls (2004),Comedy
+54,Dumb and Dumber (1994),Comedy
+55,Back to the Future (1985),Adventure|Comedy|Sci-Fi
+56,Shaun of the Dead (2004),Comedy|Horror
+57,The Northern Paradox (2004),Action|Adventure|Sci-Fi
+58,The Hidden Symphony (2005),Crime|Drama|Thriller
+59,The Electric Echo (2006),Drama|Romance
+60,The Silent Horizon (2007),Comedy
+61,The Broken Fable (2008),Animation|Children|Comedy
+62,The Shadow Cipher (2009),Action|Adventure|Sci-Fi
+63,The Distant Frontier (2010),Crime|Drama|Thriller
+64,The Emerald Sanctuary (2011),Drama|Romance
+65,The Forgotten Voyage (2012),Comedy
+66,The Quantum Chronicle (2013),Animation|Children|Comedy
+67,The Golden Labyrinth (2014),Action|Adventure|Sci-Fi
+68,The Solar Protocol (2015),Crime|Drama|Thriller
+69,The Crimson Harbor (2016),Drama|Romance
+70,The Velvet Odyssey (2017),Comedy
+71,The Midnight Mirage (2018),Animation|Children|Comedy
+72,The Northern Paradox (2019),Action|Adventure|Sci-Fi
+73,The Hidden Symphony (2020),Crime|Drama|Thriller
+74,The Electric Echo (2021),Drama|Romance
+75,The Silent Horizon (2022),Comedy
+76,The Broken Fable (1985),Animation|Children|Comedy
+77,The Shadow Cipher (1986),Action|Adventure|Sci-Fi
+78,The Distant Frontier (1987),Crime|Drama|Thriller
+79,The Emerald Sanctuary (1988),Drama|Romance
+80,The Forgotten Voyage (1989),Comedy
+81,The Quantum Chronicle (1990),Animation|Children|Comedy
+82,The Golden Labyrinth (1991),Action|Adventure|Sci-Fi
+83,The Solar Protocol (1992),Crime|Drama|Thriller
+84,The Crimson Harbor (1993),Drama|Romance
+85,The Velvet Odyssey (1994),Comedy
+86,The Midnight Mirage (1995),Animation|Children|Comedy
+87,The Northern Paradox (1996),Action|Adventure|Sci-Fi
+88,The Hidden Symphony (1997),Crime|Drama|Thriller
+89,The Electric Echo (1998),Drama|Romance
+90,The Silent Horizon (1999),Comedy
+91,The Broken Fable (2000),Animation|Children|Comedy
+92,The Shadow Cipher (2001),Action|Adventure|Sci-Fi
+93,The Distant Frontier (2002),Crime|Drama|Thriller
+94,The Emerald Sanctuary (2003),Drama|Romance
+95,The Forgotten Voyage (2004),Comedy
+96,The Quantum Chronicle (2005),Animation|Children|Comedy
+97,The Golden Labyrinth (2006),Action|Adventure|Sci-Fi
+98,The Solar Protocol (2007),Crime|Drama|Thriller
+99,The Crimson Harbor (2008),Drama|Romance
+100,The Velvet Odyssey (2009),Comedy
+101,The Midnight Mirage (2010),Animation|Children|Comedy
+102,The Northern Paradox (2011),Action|Adventure|Sci-Fi
+103,The Hidden Symphony (2012),Crime|Drama|Thriller
+104,The Electric Echo (2013),Drama|Romance
+105,The Silent Horizon (2014),Comedy
+106,The Broken Fable (2015),Animation|Children|Comedy
+107,The Shadow Cipher (2016),Action|Adventure|Sci-Fi
+108,The Distant Frontier (2017),Crime|Drama|Thriller
+109,The Emerald Sanctuary (2018),Drama|Romance
+110,The Forgotten Voyage (2019),Comedy
+111,The Quantum Chronicle (2020),Animation|Children|Comedy
+112,The Golden Labyrinth (2021),Action|Adventure|Sci-Fi
+113,The Solar Protocol (2022),Crime|Drama|Thriller
+114,The Crimson Harbor (1985),Drama|Romance
+115,The Velvet Odyssey (1986),Comedy
+116,The Midnight Mirage (1987),Animation|Children|Comedy
+117,The Northern Paradox (1988),Action|Adventure|Sci-Fi
+118,The Hidden Symphony (1989),Crime|Drama|Thriller
+119,The Electric Echo (1990),Drama|Romance
+120,The Silent Horizon (1991),Comedy
+121,The Broken Fable (1992),Animation|Children|Comedy
+122,The Shadow Cipher (1993),Action|Adventure|Sci-Fi
+123,The Distant Frontier (1994),Crime|Drama|Thriller
+124,The Emerald Sanctuary (1995),Drama|Romance
+125,The Forgotten Voyage (1996),Comedy
+126,The Quantum Chronicle (1997),Animation|Children|Comedy
+127,The Golden Labyrinth (1998),Action|Adventure|Sci-Fi
+128,The Solar Protocol (1999),Crime|Drama|Thriller
+129,The Crimson Harbor (2000),Drama|Romance
+130,The Velvet Odyssey (2001),Comedy
+131,The Midnight Mirage (2002),Animation|Children|Comedy
+132,The Northern Paradox (2003),Action|Adventure|Sci-Fi
+133,The Hidden Symphony (2004),Crime|Drama|Thriller
+134,The Electric Echo (2005),Drama|Romance
+135,The Silent Horizon (2006),Comedy
+136,The Broken Fable (2007),Animation|Children|Comedy
+137,The Shadow Cipher (2008),Action|Adventure|Sci-Fi
+138,The Distant Frontier (2009),Crime|Drama|Thriller
+139,The Emerald Sanctuary (2010),Drama|Romance
+140,The Forgotten Voyage (2011),Comedy
+141,The Quantum Chronicle (2012),Animation|Children|Comedy
+142,The Golden Labyrinth (2013),Action|Adventure|Sci-Fi
+143,The Solar Protocol (2014),Crime|Drama|Thriller
+144,The Crimson Harbor (2015),Drama|Romance
+145,The Velvet Odyssey (2016),Comedy
+146,The Midnight Mirage (2017),Animation|Children|Comedy
+147,The Northern Paradox (2018),Action|Adventure|Sci-Fi
+148,The Hidden Symphony (2019),Crime|Drama|Thriller
+149,The Electric Echo (2020),Drama|Romance
+150,The Silent Horizon (2021),Comedy
+151,The Broken Fable (2022),Animation|Children|Comedy
+152,The Shadow Cipher (1985),Action|Adventure|Sci-Fi
+153,The Distant Frontier (1986),Crime|Drama|Thriller
+154,The Emerald Sanctuary (1987),Drama|Romance
+155,The Forgotten Voyage (1988),Comedy
+156,The Quantum Chronicle (1989),Animation|Children|Comedy
+157,The Golden Labyrinth (1990),Action|Adventure|Sci-Fi
+158,The Solar Protocol (1991),Crime|Drama|Thriller
+159,The Crimson Harbor (1992),Drama|Romance
+160,The Velvet Odyssey (1993),Comedy
+161,The Midnight Mirage (1994),Animation|Children|Comedy
+162,The Northern Paradox (1995),Action|Adventure|Sci-Fi
+163,The Hidden Symphony (1996),Crime|Drama|Thriller
+164,The Electric Echo (1997),Drama|Romance
+165,The Silent Horizon (1998),Comedy
+166,The Broken Fable (1999),Animation|Children|Comedy
+167,The Shadow Cipher (2000),Action|Adventure|Sci-Fi
+168,The Distant Frontier (2001),Crime|Drama|Thriller
+169,The Emerald Sanctuary (2002),Drama|Romance
+170,The Forgotten Voyage (2003),Comedy
+171,The Quantum Chronicle (2004),Animation|Children|Comedy
+172,The Golden Labyrinth (2005),Action|Adventure|Sci-Fi
+173,The Solar Protocol (2006),Crime|Drama|Thriller
+174,The Crimson Harbor (2007),Drama|Romance
+175,The Velvet Odyssey (2008),Comedy
+176,The Midnight Mirage (2009),Animation|Children|Comedy
+177,The Northern Paradox (2010),Action|Adventure|Sci-Fi
+178,The Hidden Symphony (2011),Crime|Drama|Thriller
+179,The Electric Echo (2012),Drama|Romance
+180,The Silent Horizon (2013),Comedy
+181,The Broken Fable (2014),Animation|Children|Comedy
+182,The Shadow Cipher (2015),Action|Adventure|Sci-Fi
+183,The Distant Frontier (2016),Crime|Drama|Thriller
+184,The Emerald Sanctuary (2017),Drama|Romance
+185,The Forgotten Voyage (2018),Comedy
+186,The Quantum Chronicle (2019),Animation|Children|Comedy
+187,The Golden Labyrinth (2020),Action|Adventure|Sci-Fi
+188,The Solar Protocol (2021),Crime|Drama|Thriller
+189,The Crimson Harbor (2022),Drama|Romance
+190,The Velvet Odyssey (1985),Comedy
+191,The Midnight Mirage (1986),Animation|Children|Comedy
+192,The Northern Paradox (1987),Action|Adventure|Sci-Fi
+193,The Hidden Symphony (1988),Crime|Drama|Thriller
+194,The Electric Echo (1989),Drama|Romance
+195,The Silent Horizon (1990),Comedy
+196,The Broken Fable (1991),Animation|Children|Comedy
+197,The Shadow Cipher (1992),Action|Adventure|Sci-Fi
+198,The Distant Frontier (1993),Crime|Drama|Thriller
+199,The Emerald Sanctuary (1994),Drama|Romance
+200,The Forgotten Voyage (1995),Comedy
+201,The Quantum Chronicle (1996),Animation|Children|Comedy
+202,The Golden Labyrinth (1997),Action|Adventure|Sci-Fi
+203,The Solar Protocol (1998),Crime|Drama|Thriller
+204,The Crimson Harbor (1999),Drama|Romance
+205,The Velvet Odyssey (2000),Comedy
+206,The Midnight Mirage (2001),Animation|Children|Comedy
+207,The Northern Paradox (2002),Action|Adventure|Sci-Fi
+208,The Hidden Symphony (2003),Crime|Drama|Thriller
+209,The Electric Echo (2004),Drama|Romance
+210,The Silent Horizon (2005),Comedy
+211,The Broken Fable (2006),Animation|Children|Comedy
+212,The Shadow Cipher (2007),Action|Adventure|Sci-Fi
+213,The Distant Frontier (2008),Crime|Drama|Thriller
+214,The Emerald Sanctuary (2009),Drama|Romance
+215,The Forgotten Voyage (2010),Comedy
+216,The Quantum Chronicle (2011),Animation|Children|Comedy
+217,The Golden Labyrinth (2012),Action|Adventure|Sci-Fi
+218,The Solar Protocol (2013),Crime|Drama|Thriller
+219,The Crimson Harbor (2014),Drama|Romance
+220,The Velvet Odyssey (2015),Comedy
+221,The Midnight Mirage (2016),Animation|Children|Comedy
+222,The Northern Paradox (2017),Action|Adventure|Sci-Fi
+223,The Hidden Symphony (2018),Crime|Drama|Thriller
+224,The Electric Echo (2019),Drama|Romance
+225,The Silent Horizon (2020),Comedy
+226,The Broken Fable (2021),Animation|Children|Comedy
+227,The Shadow Cipher (2022),Action|Adventure|Sci-Fi
+228,The Distant Frontier (1985),Crime|Drama|Thriller
+229,The Emerald Sanctuary (1986),Drama|Romance
+230,The Forgotten Voyage (1987),Comedy
+231,The Quantum Chronicle (1988),Animation|Children|Comedy
+232,The Golden Labyrinth (1989),Action|Adventure|Sci-Fi
+233,The Solar Protocol (1990),Crime|Drama|Thriller
+234,The Crimson Harbor (1991),Drama|Romance
+235,The Velvet Odyssey (1992),Comedy
+236,The Midnight Mirage (1993),Animation|Children|Comedy
+237,The Northern Paradox (1994),Action|Adventure|Sci-Fi
+238,The Hidden Symphony (1995),Crime|Drama|Thriller
+239,The Electric Echo (1996),Drama|Romance
+240,The Silent Horizon (1997),Comedy
+241,The Broken Fable (1998),Animation|Children|Comedy
+242,The Shadow Cipher (1999),Action|Adventure|Sci-Fi
+243,The Distant Frontier (2000),Crime|Drama|Thriller
+244,The Emerald Sanctuary (2001),Drama|Romance
+245,The Forgotten Voyage (2002),Comedy
+246,The Quantum Chronicle (2003),Animation|Children|Comedy
+247,The Golden Labyrinth (2004),Action|Adventure|Sci-Fi
+248,The Solar Protocol (2005),Crime|Drama|Thriller
+249,The Crimson Harbor (2006),Drama|Romance
+250,The Velvet Odyssey (2007),Comedy
+251,The Midnight Mirage (2008),Animation|Children|Comedy
+252,The Northern Paradox (2009),Action|Adventure|Sci-Fi
+253,The Hidden Symphony (2010),Crime|Drama|Thriller
+254,The Electric Echo (2011),Drama|Romance
+255,The Silent Horizon (2012),Comedy
+256,The Broken Fable (2013),Animation|Children|Comedy
+257,The Shadow Cipher (2014),Action|Adventure|Sci-Fi
+258,The Distant Frontier (2015),Crime|Drama|Thriller
+259,The Emerald Sanctuary (2016),Drama|Romance
+260,The Forgotten Voyage (2017),Comedy
+261,The Quantum Chronicle (2018),Animation|Children|Comedy
+262,The Golden Labyrinth (2019),Action|Adventure|Sci-Fi
+263,The Solar Protocol (2020),Crime|Drama|Thriller
+264,The Crimson Harbor (2021),Drama|Romance
+265,The Velvet Odyssey (2022),Comedy
+266,The Midnight Mirage (1985),Animation|Children|Comedy
+267,The Northern Paradox (1986),Action|Adventure|Sci-Fi
+268,The Hidden Symphony (1987),Crime|Drama|Thriller
+269,The Electric Echo (1988),Drama|Romance
+270,The Silent Horizon (1989),Comedy
+271,The Broken Fable (1990),Animation|Children|Comedy
+272,The Shadow Cipher (1991),Action|Adventure|Sci-Fi
+273,The Distant Frontier (1992),Crime|Drama|Thriller
+274,The Emerald Sanctuary (1993),Drama|Romance
+275,The Forgotten Voyage (1994),Comedy
+276,The Quantum Chronicle (1995),Animation|Children|Comedy
+277,The Golden Labyrinth (1996),Action|Adventure|Sci-Fi
+278,The Solar Protocol (1997),Crime|Drama|Thriller
+279,The Crimson Harbor (1998),Drama|Romance
+280,The Velvet Odyssey (1999),Comedy
+281,The Midnight Mirage (2000),Animation|Children|Comedy
+282,The Northern Paradox (2001),Action|Adventure|Sci-Fi
+283,The Hidden Symphony (2002),Crime|Drama|Thriller
+284,The Electric Echo (2003),Drama|Romance
+285,The Silent Horizon (2004),Comedy
+286,The Broken Fable (2005),Animation|Children|Comedy
+287,The Shadow Cipher (2006),Action|Adventure|Sci-Fi
+288,The Distant Frontier (2007),Crime|Drama|Thriller
+289,The Emerald Sanctuary (2008),Drama|Romance
+290,The Forgotten Voyage (2009),Comedy
+291,The Quantum Chronicle (2010),Animation|Children|Comedy
+292,The Golden Labyrinth (2011),Action|Adventure|Sci-Fi
+293,The Solar Protocol (2012),Crime|Drama|Thriller
+294,The Crimson Harbor (2013),Drama|Romance
+295,The Velvet Odyssey (2014),Comedy
+296,The Midnight Mirage (2015),Animation|Children|Comedy
+297,The Northern Paradox (2016),Action|Adventure|Sci-Fi
+298,The Hidden Symphony (2017),Crime|Drama|Thriller
+299,The Electric Echo (2018),Drama|Romance
+300,The Silent Horizon (2019),Comedy
+301,The Broken Fable (2020),Animation|Children|Comedy
+302,The Shadow Cipher (2021),Action|Adventure|Sci-Fi
+303,The Distant Frontier (2022),Crime|Drama|Thriller
+304,The Emerald Sanctuary (1985),Drama|Romance
+305,The Forgotten Voyage (1986),Comedy
+306,The Quantum Chronicle (1987),Animation|Children|Comedy
+307,The Golden Labyrinth (1988),Action|Adventure|Sci-Fi
+308,The Solar Protocol (1989),Crime|Drama|Thriller
+309,The Crimson Harbor (1990),Drama|Romance
+310,The Velvet Odyssey (1991),Comedy
+311,The Midnight Mirage (1992),Animation|Children|Comedy
+312,The Northern Paradox (1993),Action|Adventure|Sci-Fi
+313,The Hidden Symphony (1994),Crime|Drama|Thriller
+314,The Electric Echo (1995),Drama|Romance
+315,The Silent Horizon (1996),Comedy
+316,The Broken Fable (1997),Animation|Children|Comedy
+317,The Shadow Cipher (1998),Action|Adventure|Sci-Fi
+318,The Distant Frontier (1999),Crime|Drama|Thriller
+319,The Emerald Sanctuary (2000),Drama|Romance
+320,The Forgotten Voyage (2001),Comedy
+321,The Quantum Chronicle (2002),Animation|Children|Comedy
+322,The Golden Labyrinth (2003),Action|Adventure|Sci-Fi
+323,The Solar Protocol (2004),Crime|Drama|Thriller
+324,The Crimson Harbor (2005),Drama|Romance
+325,The Velvet Odyssey (2006),Comedy
+326,The Midnight Mirage (2007),Animation|Children|Comedy
+327,The Northern Paradox (2008),Action|Adventure|Sci-Fi
+328,The Hidden Symphony (2009),Crime|Drama|Thriller
+329,The Electric Echo (2010),Drama|Romance
+330,The Silent Horizon (2011),Comedy
+331,The Broken Fable (2012),Animation|Children|Comedy
+332,The Shadow Cipher (2013),Action|Adventure|Sci-Fi
+333,The Distant Frontier (2014),Crime|Drama|Thriller
+334,The Emerald Sanctuary (2015),Drama|Romance
+335,The Forgotten Voyage (2016),Comedy
+336,The Quantum Chronicle (2017),Animation|Children|Comedy
+337,The Golden Labyrinth (2018),Action|Adventure|Sci-Fi
+338,The Solar Protocol (2019),Crime|Drama|Thriller
+339,The Crimson Harbor (2020),Drama|Romance
+340,The Velvet Odyssey (2021),Comedy
+341,The Midnight Mirage (2022),Animation|Children|Comedy
+342,The Northern Paradox (1985),Action|Adventure|Sci-Fi
+343,The Hidden Symphony (1986),Crime|Drama|Thriller
+344,The Electric Echo (1987),Drama|Romance
+345,The Silent Horizon (1988),Comedy
+346,The Broken Fable (1989),Animation|Children|Comedy
+347,The Shadow Cipher (1990),Action|Adventure|Sci-Fi
+348,The Distant Frontier (1991),Crime|Drama|Thriller
+349,The Emerald Sanctuary (1992),Drama|Romance
+350,The Forgotten Voyage (1993),Comedy

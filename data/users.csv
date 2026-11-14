@@ -1,0 +1,401 @@
+userId,age,gender,occupation,primary_taste_cluster
+1,42,M,Software Engineer,0
+2,19,F,Data Scientist,1
+3,48,M,Educator,2
+4,19,F,Designer,3
+5,35,M,Analyst,4
+6,22,F,Healthcare,0
+7,19,M,Writer,1
+8,28,F,Student,2
+9,42,M,Software Engineer,3
+10,31,F,Data Scientist,4
+11,28,M,Educator,0
+12,28,F,Designer,1
+13,42,M,Analyst,2
+14,42,F,Healthcare,3
+15,31,M,Writer,4
+16,22,F,Student,0
+17,42,M,Software Engineer,1
+18,19,F,Data Scientist,2
+19,48,M,Educator,3
+20,31,F,Designer,4
+21,42,M,Analyst,0
+22,22,F,Healthcare,1
+23,22,M,Writer,2
+24,42,F,Student,3
+25,19,M,Software Engineer,4
+26,28,F,Data Scientist,0
+27,42,M,Educator,1
+28,35,F,Designer,2
+29,35,M,Analyst,3
+30,22,F,Healthcare,4
+31,31,M,Writer,0
+32,48,F,Student,1
+33,35,M,Software Engineer,2
+34,48,F,Data Scientist,3
+35,48,M,Educator,4
+36,28,F,Designer,0
+37,31,M,Analyst,1
+38,31,F,Healthcare,2
+39,22,M,Writer,3
+40,22,F,Student,4
+41,35,M,Software Engineer,0
+42,31,F,Data Scientist,1
+43,19,M,Educator,2
+44,31,F,Designer,3
+45,25,M,Analyst,4
+46,35,F,Healthcare,0
+47,28,M,Writer,1
+48,25,F,Student,2
+49,31,M,Software Engineer,3
+50,48,F,Data Scientist,4
+51,25,M,Educator,0
+52,28,F,Designer,1
+53,42,M,Analyst,2
+54,22,F,Healthcare,3
+55,42,M,Writer,4
+56,25,F,Student,0
+57,28,M,Software Engineer,1
+58,35,F,Data Scientist,2
+59,19,M,Educator,3
+60,35,F,Designer,4
+61,31,M,Analyst,0
+62,19,F,Healthcare,1
+63,22,M,Writer,2
+64,28,F,Student,3
+65,31,M,Software Engineer,4
+66,42,F,Data Scientist,0
+67,31,M,Educator,1
+68,22,F,Designer,2
+69,42,M,Analyst,3
+70,28,F,Healthcare,4
+71,35,M,Writer,0
+72,31,F,Student,1
+73,35,M,Software Engineer,2
+74,28,F,Data Scientist,3
+75,35,M,Educator,4
+76,48,F,Designer,0
+77,42,M,Analyst,1
+78,19,F,Healthcare,2
+79,48,M,Writer,3
+80,35,F,Student,4
+81,28,M,Software Engineer,0
+82,19,F,Data Scientist,1
+83,22,M,Educator,2
+84,22,F,Designer,3
+85,22,M,Analyst,4
+86,42,F,Healthcare,0
+87,25,M,Writer,1
+88,28,F,Student,2
+89,42,M,Software Engineer,3
+90,31,F,Data Scientist,4
+91,22,M,Educator,0
+92,48,F,Designer,1
+93,31,M,Analyst,2
+94,42,F,Healthcare,3
+95,28,M,Writer,4
+96,35,F,Student,0
+97,48,M,Software Engineer,1
+98,28,F,Data Scientist,2
+99,28,M,Educator,3
+100,31,F,Designer,4
+101,42,M,Analyst,0
+102,22,F,Healthcare,1
+103,28,M,Writer,2
+104,42,F,Student,3
+105,19,M,Software Engineer,4
+106,31,F,Data Scientist,0
+107,25,M,Educator,1
+108,31,F,Designer,2
+109,25,M,Analyst,3
+110,25,F,Healthcare,4
+111,28,M,Writer,0
+112,35,F,Student,1
+113,42,M,Software Engineer,2
+114,31,F,Data Scientist,3
+115,22,M,Educator,4
+116,25,F,Designer,0
+117,22,M,Analyst,1
+118,42,F,Healthcare,2
+119,48,M,Writer,3
+120,42,F,Student,4
+121,48,M,Software Engineer,0
+122,25,F,Data Scientist,1
+123,48,M,Educator,2
+124,19,F,Designer,3
+125,48,M,Analyst,4
+126,42,F,Healthcare,0
+127,35,M,Writer,1
+128,31,F,Student,2
+129,35,M,Software Engineer,3
+130,19,F,Data Scientist,4
+131,19,M,Educator,0
+132,25,F,Designer,1
+133,25,M,Analyst,2
+134,22,F,Healthcare,3
+135,22,M,Writer,4
+136,28,F,Student,0
+137,25,M,Software Engineer,1
+138,25,F,Data Scientist,2
+139,22,M,Educator,3
+140,31,F,Designer,4
+141,48,M,Analyst,0
+142,22,F,Healthcare,1
+143,42,M,Writer,2
+144,42,F,Student,3
+145,28,M,Software Engineer,4
+146,35,F,Data Scientist,0
+147,42,M,Educator,1
+148,28,F,Designer,2
+149,31,M,Analyst,3
+150,19,F,Healthcare,4
+151,28,M,Writer,0
+152,25,F,Student,1
+153,25,M,Software Engineer,2
+154,31,F,Data Scientist,3
+155,35,M,Educator,4
+156,19,F,Designer,0
+157,19,M,Analyst,1
+158,35,F,Healthcare,2
+159,19,M,Writer,3
+160,28,F,Student,4
+161,35,M,Software Engineer,0
+162,35,F,Data Scientist,1
+163,48,M,Educator,2
+164,31,F,Designer,3
+165,35,M,Analyst,4
+166,28,F,Healthcare,0
+167,48,M,Writer,1
+168,35,F,Student,2
+169,19,M,Software Engineer,3
+170,28,F,Data Scientist,4
+171,25,M,Educator,0
+172,25,F,Designer,1
+173,25,M,Analyst,2
+174,28,F,Healthcare,3
+175,48,M,Writer,4
+176,25,F,Student,0
+177,22,M,Software Engineer,1
+178,35,F,Data Scientist,2
+179,35,M,Educator,3
+180,19,F,Designer,4
+181,19,M,Analyst,0
+182,22,F,Healthcare,1
+183,35,M,Writer,2
+184,42,F,Student,3
+185,25,M,Software Engineer,4
+186,22,F,Data Scientist,0
+187,19,M,Educator,1
+188,42,F,Designer,2
+189,19,M,Analyst,3
+190,31,F,Healthcare,4
+191,28,M,Writer,0
+192,25,F,Student,1
+193,35,M,Software Engineer,2
+194,35,F,Data Scientist,3
+195,19,M,Educator,4
+196,31,F,Designer,0
+197,42,M,Analyst,1
+198,31,F,Healthcare,2
+199,48,M,Writer,3
+200,31,F,Student,4
+201,19,M,Software Engineer,0
+202,48,F,Data Scientist,1
+203,25,M,Educator,2
+204,19,F,Designer,3
+205,19,M,Analyst,4
+206,48,F,Healthcare,0
+207,35,M,Writer,1
+208,31,F,Student,2
+209,19,M,Software Engineer,3
+210,19,F,Data Scientist,4
+211,42,M,Educator,0
+212,22,F,Designer,1
+213,28,M,Analyst,2
+214,28,F,Healthcare,3
+215,48,M,Writer,4
+216,28,F,Student,0
+217,48,M,Software Engineer,1
+218,42,F,Data Scientist,2
+219,35,M,Educator,3
+220,22,F,Designer,4
+221,25,M,Analyst,0
+222,35,F,Healthcare,1
+223,25,M,Writer,2
+224,31,F,Student,3
+225,22,M,Software Engineer,4
+226,31,F,Data Scientist,0
+227,31,M,Educator,1
+228,22,F,Designer,2
+229,25,M,Analyst,3
+230,35,F,Healthcare,4
+231,25,M,Writer,0
+232,35,F,Student,1
+233,35,M,Software Engineer,2
+234,22,F,Data Scientist,3
+235,22,M,Educator,4
+236,25,F,Designer,0
+237,35,M,Analyst,1
+238,31,F,Healthcare,2
+239,28,M,Writer,3
+240,35,F,Student,4
+241,25,M,Software Engineer,0
+242,22,F,Data Scientist,1
+243,31,M,Educator,2
+244,35,F,Designer,3
+245,22,M,Analyst,4
+246,31,F,Healthcare,0
+247,31,M,Writer,1
+248,35,F,Student,2
+249,35,M,Software Engineer,3
+250,28,F,Data Scientist,4
+251,25,M,Educator,0
+252,22,F,Designer,1
+253,28,M,Analyst,2
+254,25,F,Healthcare,3
+255,42,M,Writer,4
+256,25,F,Student,0
+257,19,M,Software Engineer,1
+258,31,F,Data Scientist,2
+259,19,M,Educator,3
+260,19,F,Designer,4
+261,22,M,Analyst,0
+262,42,F,Healthcare,1
+263,19,M,Writer,2
+264,35,F,Student,3
+265,31,M,Software Engineer,4
+266,42,F,Data Scientist,0
+267,42,M,Educator,1
+268,31,F,Designer,2
+269,48,M,Analyst,3
+270,28,F,Healthcare,4
+271,22,M,Writer,0
+272,48,F,Student,1
+273,35,M,Software Engineer,2
+274,25,F,Data Scientist,3
+275,28,M,Educator,4
+276,48,F,Designer,0
+277,22,M,Analyst,1
+278,22,F,Healthcare,2
+279,48,M,Writer,3
+280,42,F,Student,4
+281,35,M,Software Engineer,0
+282,19,F,Data Scientist,1
+283,28,M,Educator,2
+284,31,F,Designer,3
+285,35,M,Analyst,4
+286,28,F,Healthcare,0
+287,28,M,Writer,1
+288,48,F,Student,2
+289,31,M,Software Engineer,3
+290,22,F,Data Scientist,4
+291,48,M,Educator,0
+292,28,F,Designer,1
+293,48,M,Analyst,2
+294,48,F,Healthcare,3
+295,42,M,Writer,4
+296,42,F,Student,0
+297,28,M,Software Engineer,1
+298,28,F,Data Scientist,2
+299,42,M,Educator,3
+300,35,F,Designer,4
+301,35,M,Analyst,0
+302,19,F,Healthcare,1
+303,25,M,Writer,2
+304,28,F,Student,3
+305,42,M,Software Engineer,4
+306,31,F,Data Scientist,0
+307,25,M,Educator,1
+308,25,F,Designer,2
+309,19,M,Analyst,3
+310,25,F,Healthcare,4
+311,19,M,Writer,0
+312,19,F,Student,1
+313,31,M,Software Engineer,2
+314,35,F,Data Scientist,3
+315,31,M,Educator,4
+316,25,F,Designer,0
+317,31,M,Analyst,1
+318,19,F,Healthcare,2
+319,19,M,Writer,3
+320,25,F,Student,4
+321,25,M,Software Engineer,0
+322,19,F,Data Scientist,1
+323,19,M,Educator,2
+324,35,F,Designer,3
+325,48,M,Analyst,4
+326,42,F,Healthcare,0
+327,19,M,Writer,1
+328,48,F,Student,2
+329,31,M,Software Engineer,3
+330,35,F,Data Scientist,4
+331,35,M,Educator,0
+332,31,F,Designer,1
+333,22,M,Analyst,2
+334,22,F,Healthcare,3
+335,22,M,Writer,4
+336,19,F,Student,0
+337,22,M,Software Engineer,1
+338,35,F,Data Scientist,2
+339,22,M,Educator,3
+340,48,F,Designer,4
+341,25,M,Analyst,0
+342,35,F,Healthcare,1
+343,28,M,Writer,2
+344,42,F,Student,3
+345,28,M,Software Engineer,4
+346,22,F,Data Scientist,0
+347,31,M,Educator,1
+348,25,F,Designer,2
+349,35,M,Analyst,3
+350,48,F,Healthcare,4
+351,48,M,Writer,0
+352,31,F,Student,1
+353,22,M,Software Engineer,2
+354,31,F,Data Scientist,3
+355,42,M,Educator,4
+356,19,F,Designer,0
+357,28,M,Analyst,1
+358,31,F,Healthcare,2
+359,22,M,Writer,3
+360,22,F,Student,4
+361,28,M,Software Engineer,0
+362,28,F,Data Scientist,1
+363,31,M,Educator,2
+364,31,F,Designer,3
+365,31,M,Analyst,4
+366,35,F,Healthcare,0
+367,35,M,Writer,1
+368,28,F,Student,2
+369,35,M,Software Engineer,3
+370,42,F,Data Scientist,4
+371,25,M,Educator,0
+372,28,F,Designer,1
+373,48,M,Analyst,2
+374,42,F,Healthcare,3
+375,42,M,Writer,4
+376,35,F,Student,0
+377,35,M,Software Engineer,1
+378,19,F,Data Scientist,2
+379,42,M,Educator,3
+380,31,F,Designer,4
+381,48,M,Analyst,0
+382,25,F,Healthcare,1
+383,48,M,Writer,2
+384,35,F,Student,3
+385,22,M,Software Engineer,4
+386,22,F,Data Scientist,0
+387,42,M,Educator,1
+388,48,F,Designer,2
+389,19,M,Analyst,3
+390,31,F,Healthcare,4
+391,19,M,Writer,0
+392,22,F,Student,1
+393,35,M,Software Engineer,2
+394,31,F,Data Scientist,3
+395,42,M,Educator,4
+396,42,F,Designer,0
+397,28,M,Analyst,1
+398,19,F,Healthcare,2
+399,42,M,Writer,3
+400,35,F,Student,4
